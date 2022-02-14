@@ -4,7 +4,7 @@ import tkinter as tk
 from unittest import result
 
 frame = tk.Tk();
-frame.title("exemplo viadao kk");
+frame.title("mini-calculadora");
 frame.geometry('400x200');
 
 lbl1 = tk.Label(frame, text="digite o primeiro número: ");
